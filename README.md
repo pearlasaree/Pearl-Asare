@@ -2,7 +2,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>SQL </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Group project 2024](https://github.com/pearlasaree/Group-project-SQL-Python)
 - <b>Excel</b>
   - [Excel project 1](https://github.com/pearlasaree/Excel-project-1-) <b><i></b></i>
 - <b>PowerBI</b>
